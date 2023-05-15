@@ -6,8 +6,8 @@
 
 # Steps to Start the App
 
-## 1 Install the Public Dependencies using yarn in the public folder.
-## 2 Install the Server Dependencies using yarn in the sever folder.
+## 1 Install the Public Dependencies using command yarn in the public folder.
+## 2 Install the Server Dependencies using command yarn in the sever folder.
 ## 3 In the Server Directory there's a .env file. Change the value of mongodb inside the file. Set the value as your mongodb connection url.
 ## 4 Now start the server by yarn start.
 ## 5 Now start the public by yarn start.
